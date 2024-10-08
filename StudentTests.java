@@ -11,17 +11,7 @@ import java.util.Collections;
 import java.util.List;
 
 public class StudentTests {
-  
-  /*
-   * Wahida Zaker
-   * UID: 118026404
-   * Directory ID: wzaker
-   * Discussion: 0306
-   * 
-   * I pledge on my honor that I have not given or received
-   * any unauthorized assistance on this assignment
-   * 
-   * */
+
 
   @Test
   public void testReadSubmissionsConcurrently1() {
